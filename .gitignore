@@ -31,3 +31,5 @@ cvnets.egg-info/*
 venv/
 
 trash
+dataset
+segmentation_image
